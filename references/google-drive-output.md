@@ -49,6 +49,26 @@ Salesforce Cloud(s): [cloud context passed in prompt, or "Auto-detected: X"]
 
 ════════════════════════════════════════
 
+PROJECT CONTEXT
+
+Client Goal:
+[2–3 sentence summary of why this project is happening and what business
+problem or opportunity is driving it]
+
+End Users:
+[Who will use the system day to day — roles, teams, approximate numbers if stated]
+
+Current Pain:
+[What is broken or missing today — specific to what was said in the source material]
+
+Success Criteria:
+[What good looks like — measurable targets, go-live goals, KPIs if stated]
+
+Constraints:
+[Timeline, budget, tech stack, data migration, compliance or regulatory notes]
+
+════════════════════════════════════════
+
 SUMMARY
 • Total Requirements: X
 • Epics identified: [Epic 1], [Epic 2], ...
